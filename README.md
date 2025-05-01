@@ -39,6 +39,9 @@ The dataset used in this project consists of labeled images of different individ
 git clone https://github.com/your-username/person-image-classification.git
 cd person-image-classification
 ```
+
+### 2. Install Dependencies
+
 ```bash
 pip install -r requirements.txt
 ```
