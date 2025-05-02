@@ -8,7 +8,7 @@ The dataset used in this project consists of labeled images of different individ
 
 🔗 [Download Dataset from Google Drive](https://drive.google.com/drive/folders/1u3JTM71gS9NHE8--q41MbPOue3bDofbw?usp=sharing)
 
-> **Note:** Make sure to download and extract the dataset into a folder named `dataset/` within the root directory of the project.
+> **Note:** Make sure to download and extract the dataset into a folder named `dataset/` within the model directory of the project.
 
 ## 🧹 Dataset Cleaning
 
